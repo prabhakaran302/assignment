@@ -13,6 +13,8 @@ $  git clone https://github.com/prabhakaran302/assignment.git
 
 ##### Build Docker image
 ```
+$ cd assignment
+$ cd employee-service
 $ docker build -t="netent-employee-service" .
 ```
 This will first run maven build to create jar package and then build hello-world image using built jar package.
