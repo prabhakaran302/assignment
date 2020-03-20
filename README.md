@@ -8,7 +8,7 @@ Installed: [Docker](https://www.docker.com/), [Java 1.8 or 1.11](https://www.ora
 
 ##### Clone source code from git
 ```
-$  https://github.com/prabhakaran302/assignment.git .
+$  https://github.com/prabhakaran302/assignment.git
 ```
 
 ##### Build Docker image
